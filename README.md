@@ -6,3 +6,5 @@
 
 [226 翻转二叉树](https://github.com/GodG1239426256/leetcode/blob/main/226%20%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
+Success
+
