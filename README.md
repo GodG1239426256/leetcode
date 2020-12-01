@@ -10,5 +10,7 @@
 
 [226 翻转二叉树](https://github.com/GodG1239426256/leetcode/blob/main/226%20%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
+[652 寻找重复的子树](https://github.com/GodG1239426256/leetcode/blob/main/652%20%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E6%A0%91.md)
+
 [654 最大二叉树](https://github.com/GodG1239426256/leetcode/blob/main/654%20%E6%9C%80%E5%A4%A7%E4%BA%8C%E5%8F%89%E6%A0%91%20.md) 
 
